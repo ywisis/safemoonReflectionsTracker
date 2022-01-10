@@ -1,2 +1,4 @@
 # safemoonReflectionsTracker
-little side project to calculate reflections based off your balance (inspired the actual feature in the SafeMoon wallet app)
+This was a little side project to calculate reflections based of your balance from the popular SafeMoon crypto coin.
+
+Project inspired SafeMoon Devs to create an actual feature in the SafeMoon wallet app
